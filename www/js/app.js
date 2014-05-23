@@ -14,6 +14,7 @@ function MainCtrl($scope){
 		},
 		zoom: 10
 	};
+console.warn("The map loaded without any Hiccups.");
 alert("The map loaded without any Hiccups.");
 }
 
